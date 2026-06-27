@@ -5,7 +5,7 @@ Documenting my journey from Python to Machine Learning — code, notes, and proj
 ## 📍 Progress Tracker
 
 ### Phase 1: Python Foundation
-- [ ] Lesson 1: Variables & Data Types
+- [x] Lesson 1: Variables & Data Types
 - [ ] Lesson 2: Conditions & Loops
 - [ ] Lesson 3: Functions
 - [ ] Lesson 4: Lists, Tuples & Dictionaries
