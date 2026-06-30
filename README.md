@@ -7,7 +7,7 @@ Documenting my journey from Python to Machine Learning — code, notes, and proj
 ### Phase 1: Python Foundation
 - [x] Lesson 1: Variables & Data Types
 - [x] Lesson 2: Conditions & Loops
-- [ ] Lesson 3: Functions
+- [x] Lesson 3: Functions
 - [ ] Lesson 4: Lists, Tuples & Dictionaries
 - [ ] Lesson 5: File Handling
 - [ ] Lesson 6: OOP Basics
